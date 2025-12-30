@@ -25,6 +25,14 @@
     <p>Real-time weather fetcher</p>
     <a href="funmath.py">View Code</a>
   </div>
+
+  
+</div>
+<div style="background: #f8f9fa; border-radius: 8px; padding: 15px; border: 1px solid #e1e4e8;">
+    <h3>📖 Quiz game</h3>
+    <p>answer the amazing quetion</p>
+    <a href="Quiz.py">View Code</a>
+  </div>
 </div>
 
 ---
